@@ -1,100 +1,89 @@
 const UserInfo=[
     {
         id:'100',
-        name: 'Candy',
+        name: 'vikram',
         userProfile:{
-                     DOB:'26/4/1996',
-                     designation:'Senior Software Engineer',
+                     DOB:'24/6/1996',
+                     designation:'Senior analyst',
                      salary:300000,
                      hobbies:'Reading and Travelling',
-                     userImage:'https://clipground.com/images/mother-clipart-cartoon-1.png'
+                     userImage:'https://www.pngall.com/wp-content/uploads/8/Man-PNG-Image-HD.png'
                     },
-        mainImage:'https://maxoffsky.com/word/wp-content/uploads/2014/04/andreasbg.png'
+        mainImage:'https://www.pngall.com/wp-content/uploads/8/Young-Man-PNG-Free-Image.png'
     },
     {
         id:'101',
-        name: 'Sylvester',
+        name: 'sai',
         userProfile:{
-            DOB:'26/12/1993',
-            designation:'Senior Software Tester',
+            DOB:'05/15/1997',
+            designation:'Senior Software Engineer',
             salary:550000,
             hobbies:'Singing,Sports,Photography',
-            userImage:'https://openclipart.org/image/2400px/svg_to_png/247271/hombre-hello-remix-cyberscooty.png'
+            userImage:'https://w7.pngwing.com/pngs/231/687/png-transparent-green-cartoon-green-background-cartoon-character-texture-painted-thumbnail.png'
            },
-        mainImage:'https://cdn.wallpapersafari.com/4/14/tBZcNK.png'
+        mainImage:'https://w7.pngwing.com/pngs/511/1/png-transparent-man-wearing-black-suit-and-red-tie-cartoon-cartoon-business-man-business-woman-hand-people-thumbnail.png'
     },
     {
         id:'102',
-        name: 'Radha',
+        name: 'Revanth',
         userProfile:{
-            DOB:'24/12/1990',
-            designation:'Senior Data Scientist',
-            salary:950000,
-            hobbies:'Reading and cooking',
-            userImage:'https://webstockreview.net/images/clipart-boy-laptop-10.png'
-           },
-       mainImage:'https://cdn.wallpapersafari.com/17/2/tyMNGW.png'
+                     DOB:'24/6/1996',
+                     designation:'Senior analyst',
+                     salary:300000,
+                     hobbies:'Reading and Travelling',
+                     userImage:'https://www.pngall.com/wp-content/uploads/8/Man-PNG-Image-HD.png'
+                    },
+        mainImage:'https://www.pngall.com/wp-content/uploads/8/Young-Man-PNG-Free-Image.png'
     },
     {
         id:'103',
-        name: 'Rahul',
+        name: 'Dolly',
         userProfile:{
-            DOB:'24/06/1992',
-            designation:'Sales Professional',
-            salary:650000,
-            hobbies:'Sports and books',
-            userImage:'https://images.onlinelabels.com/images/clip-art/Juhele/Business%20man%20using%20a%20phone-284999.png'
+            DOB:'05/15/1997',
+            designation:'Senior Software Engineer',
+            salary:550000,
+            hobbies:'Singing,Sports,Photography',
+            userImage:'https://w7.pngwing.com/pngs/231/687/png-transparent-green-cartoon-green-background-cartoon-character-texture-painted-thumbnail.png'
            },
-        mainImage:'https://openclipart.org/image/2400px/svg_to_png/223538/Vintage-Floral-Wallpaper-Pattern.png'
+        mainImage:'https://w7.pngwing.com/pngs/511/1/png-transparent-man-wearing-black-suit-and-red-tie-cartoon-cartoon-business-man-business-woman-hand-people-thumbnail.png'
     },
     {
         id:'104',
-        name: 'Sneha',
+        name: 'bullet',
         userProfile:{
-            DOB:'23/06/1993',
-            designation:'HR Executive',
-            salary:780000,
-            hobbies:'Movies,music,travelling',
-            userImage:'https://www.pinclipart.com/picdir/big/581-5816751_business-woman-introduce-clipart-transparent-background-teacher-clipart.png'
-           },
-        mainImage:'https://www.pixelstalk.net/wp-content/uploads/2016/03/Free-Green-Backgrounds-free-download.png'
+                     DOB:'24/6/1996',
+                     designation:'Senior analyst',
+                     salary:300000,
+                     hobbies:'Reading and Travelling',
+                     userImage:'https://www.pngall.com/wp-content/uploads/8/Man-PNG-Image-HD.png'
+                    },
+        mainImage:'https://www.pngall.com/wp-content/uploads/8/Young-Man-PNG-Free-Image.png'
     },
     {
         id:'105',
-        name: 'Mohit',
+        name: 'escape',
         userProfile:{
-            DOB:'23/05/1989',
+            DOB:'05/15/1997',
             designation:'Senior Software Engineer',
-            salary:980000,
-            hobbies:'Movies,cricket and travelling',
-            userImage:'https://pngfile.net/public/uploads/preview/business-man-cartoon-png-free-download-31567109436y3oqiw5stw.png'
+            salary:550000,
+            hobbies:'Singing,Sports,Photography',
+            userImage:'https://w7.pngwing.com/pngs/231/687/png-transparent-green-cartoon-green-background-cartoon-character-texture-painted-thumbnail.png'
            },
-        mainImage:'https://i.pinimg.com/originals/fe/aa/f0/feaaf04b81ee23f5df2e6c87a98c3590.png'
+        mainImage:'https://w7.pngwing.com/pngs/511/1/png-transparent-man-wearing-black-suit-and-red-tie-cartoon-cartoon-business-man-business-woman-hand-people-thumbnail.png'
     },
     {
         id:'106',
-        name: 'Sahana',
+        name: 'dollar',
         userProfile:{
-            DOB:'23/05/1998',
-            designation:'Business Analyst',
-            salary:400000,
-            hobbies:'Movies,music and gardening',
-            userImage:'http://www.freepngclipart.com/download/woman/79812-woman-illustration-businessperson-professional-cartoon-women.png'
+            DOB:'05/15/1997',
+            designation:'Senior Software Engineer',
+            salary:550000,
+            hobbies:'Singing,Sports,Photography',
+            userImage:'https://w7.pngwing.com/pngs/231/687/png-transparent-green-cartoon-green-background-cartoon-character-texture-painted-thumbnail.png'
            },
-       mainImage:'https://th.bing.com/th/id/R.97d2224d374c4cd6626fa693c8bb0012?rik=veaIRlSEXdhe4w&riu=http%3a%2f%2fopenclipart.org%2fimage%2f2400px%2fsvg_to_png%2f189742%2fJapanese-Flag-Lines.png&ehk=DN4kw0yMaxmXCPgSo1x%2bw8XbXVh6pKZLX7Vi%2besUeJ8%3d&risl=&pid=ImgRaw&r=0'
+        mainImage:'https://w7.pngwing.com/pngs/511/1/png-transparent-man-wearing-black-suit-and-red-tie-cartoon-cartoon-business-man-business-woman-hand-people-thumbnail.png'
     },
-    {
-        id:'107',
-        name: 'Manish',
-        userProfile:{
-            DOB:'23/06/1987',
-            designation:'Operations Manager',
-            salary:1250000,
-            hobbies:'Music,travelling and cooking',
-            userImage:'https://openclipart.org/image/2400px/svg_to_png/64903/People-024-Teacher-Desk-Chair.png'
-           },
-      mainImage:'https://cdn.pixabay.com/photo/2016/05/22/19/07/background-1409025_640.png'
-    }
+   
 
 ];
 
